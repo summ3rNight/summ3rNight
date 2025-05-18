@@ -50,9 +50,7 @@
 -   **Linux & Bash:** Proficient with Linux (Ubuntu) as a primary development environment for C/C++, Java, and other projects. Experienced with Bash scripting for task automation, build process management, system navigation, and package management.
 
 -   **Software Engineering Methodologies:** Solid grasp of the software development lifecycle (SDLC), including requirements engineering, system modeling, various architectural patterns (Client-Server, Layered, Microservices), design patterns, diverse testing strategies (unit, integration, TDD), and CI/CD principles, based on comprehensive software engineering coursework.
----
-
-<!---
+  <!---
 ge47kuf/ge47kuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
