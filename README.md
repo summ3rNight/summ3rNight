@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan</h1>
-<h3 align="center">informatic student from Munich 🇩🇪</h3>
+<h3 align="center">Computer Science student from Munich 🇩🇪</h3>
 
 ---
 
@@ -51,13 +51,6 @@
 
 -   **Software Engineering Methodologies:** Solid grasp of the software development lifecycle (SDLC), including requirements engineering, system modeling, various architectural patterns (Client-Server, Layered, Microservices), design patterns, diverse testing strategies (unit, integration, TDD), and CI/CD principles, based on comprehensive software engineering coursework.
 ---
-
-### 📫 Contact
-
-- 📧 E-Mail: <tuanla50@icloud.com>  
-
----
-
 
 <!---
 ge47kuf/ge47kuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
