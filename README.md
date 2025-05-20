@@ -30,7 +30,7 @@
 ---
 
 ### 📂 Featured Projects
-| Projekt                                      | Beschreibung                                                                                                                               | Sprache(n)/Technologien    |
+| project                                      | description                                                                                                                               | language/technology    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | [External Sort](https://github.com/ge47kuf/cpp-external-sort)         | Efficient sorting of very large files using external sort algorithm. Demonstrates handling of limited memory resources, temporary storage management, and system-level programming in C++. | C++, STL, System Programming                       |
 | [Performance Optimization](https://github.com/ge47kuf/cpp-performance-optimization) | Analyzed and optimized C++ performance using multithreading, AVX/AVX2 vectorization, cache optimization, and efficient data structures. Demonstrates performance analysis and low-level optimization skills. | C++17, AVX/AVX2, Multithreading, perf, Make |
