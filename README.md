@@ -6,7 +6,7 @@
 ### 💡 About Me
 - 👨‍🎓 I'm studying in Munich with a passion for **software development**, especially in **system-level programming**.
 - 🌱 Currently deepening my knowledge in **HTML, CSS, JavaScript** to enhance frontend development skills.
-- 🛠️ I enjoy developing practical tools, solving challenging coding problems, and continuously optimizing my workflow.
+- 🛠️ I enjoy using practical tools, solving challenging coding problems, and continuously optimizing my workflow.
 ---
 
 ### 🎯 Currently Focusing On
