@@ -36,9 +36,9 @@
 | [Performance Optimization](https://github.com/ge47kuf/cpp-performance-optimization) | Analyzed and optimized C++ performance using multithreading, AVX/AVX2 vectorization, cache optimization, and efficient data structures. Demonstrates performance analysis and low-level optimization skills. | C++17, AVX/AVX2, Multithreading, perf, Make |
 | [Interpolation & Fourier Library](https://github.com/ge47kuf/Java-Numerical-Algorithms)    | Java library offering mathematical algorithms including interpolation methods, FFT, and image scaling applications. Highlights mathematical programming, GUI development, and algorithm implementation. | Java, JavaFX, Algorithms, Image Processing |
 | [Layered Architecture](https://github.com/ge47kuf/layered-architecture-spring-javafx)  | Client-server application demonstrating layered architecture principles with Spring Boot backend and JavaFX frontend, including REST API interaction and GUI design. Showcases software architecture and design patterns. | Java, Spring Boot, JavaFX, REST API, Gradle |
--->
----
 
+---
+-->
 ### 💻 Programming Experience
 
 -   **Java:** Extensive experience gained through university projects and practical exercises, mastering core concepts (data structures, algorithms, OOP, concurrency) and software engineering principles (design patterns, layered architectures). Applied in significant projects including a mathematical/image processing library with a JavaFX UI, and a client-server application utilizing Spring Boot for the REST API and JavaFX for the client.
