@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Tuan</h1>
-<h3 align="center">Computer Science student from Munich 🇩🇪</h3>
+<h3 align="center">Computer Science student</h3>
 
 ---
 
-### 💡 About Me
-- 👨‍🎓 I'm studying in Munich with a passion for **software development**, especially in **system-level programming**.
-- 🌱 Currently deepening my knowledge in **HTML, CSS, JavaScript** to enhance frontend development skills.
-- 🛠️ I enjoy using practical tools, solving challenging coding problems, and continuously optimizing my workflow.
+### About Me
+- I'm studying in Munich with a passion for **software development**, especially in **system-level programming**.
+- Currently deepening my knowledge in **HTML, CSS, JavaScript** to enhance frontend development skills.
+- I enjoy using practical tools, solving challenging coding problems, and continuously optimizing my workflow.
 ---
 
-### 🎯 Currently Focusing On
+### Currently Focusing On
 - Frontend Development (HTML/CSS/JavaScript)
 - Advanced C++ Projects & System Programming
-- Continuous Integration and Deployment (CI/CD)
+- Data structure 
 ---
 
-### 🚀 My skills
+### My skills
 
 **Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
@@ -41,16 +41,14 @@
 -->
 ### 💻 Programming Experience
 
--   **Java:** Extensive experience gained through university projects and practical exercises, mastering core concepts (data structures, algorithms, OOP, concurrency) and software engineering principles (design patterns, layered architectures). Applied in significant projects including a mathematical/image processing library with a JavaFX UI, and a client-server application utilizing Spring Boot for the REST API and JavaFX for the client.
+- **Java:** Extensive experience gained through university projects and practical exercises, mastering core concepts (data structures, algorithms, OOP, concurrency) and software engineering principles (design patterns, layered architectures). Applied in significant projects including a mathematical/image processing library with a JavaFX UI, and a client-server application utilizing Spring Boot for the REST API and JavaFX for the client.
 
--   **C++ & C:** In-depth knowledge of modern C++ and C, focusing on system-level programming and performance. Expertise covers memory management (RAII, smart pointers), STL, templates, lambdas, and concurrency (pthreads, `std::thread`, mutexes). Gained extensive practical experience in performance analysis and optimization (profiling with `perf`, Valgrind/Callgrind), utilizing AVX/SIMD intrinsics, cache-aware programming, compiler optimizations, Makefiles, and debugging with GDB (as per courses like "Basics of C++" and a performance programming practicum). Key projects include an external sort utility and various performance-optimized algorithms.
+- **C++ & C:** In-depth knowledge of modern C++ and C, focusing on system-level programming and performance. Expertise covers memory management (RAII, smart pointers), STL, templates, lambdas, and concurrency (pthreads, `std::thread`, mutexes). Gained extensive practical experience in performance analysis and optimization (profiling with `perf`, Valgrind/Callgrind), utilizing AVX/SIMD intrinsics, cache-aware programming, compiler optimizations, Makefiles, and debugging with GDB (as per courses like "Basics of C++" and a performance programming practicum). Key projects include an external sort utility and various performance-optimized algorithms.
 
--   **Databases & SQL:** basic understanding of relational database systems, including conceptual, logical, and physical database design, complex SQL query formulation (DML/DDL), relational algebra, transaction management, recovery, and security aspects. Practical experience gained through dedicated database coursework.
+- **Databases & SQL:** basic understanding of relational database systems, including conceptual, logical, and physical database design, complex SQL query formulation (DML/DDL), relational algebra, transaction management, recovery, and security aspects. Practical experience gained through dedicated database coursework.
 
--   **Linux & Bash:** Proficient with Linux (Ubuntu) as a primary development environment for C/C++, Java, and other projects. Experienced with Bash scripting for task automation, build process management, system navigation, and package management.
+- **Linux & Bash:** Proficient with Linux (Ubuntu) as a primary development environment for C/C++, Java, and other projects. Experienced with Bash scripting for task automation, build process management, system navigation, and package management.
 
--   **Software Engineering Methodologies:** Solid grasp of the software development lifecycle (SDLC), including requirements engineering, system modeling, various architectural patterns (Client-Server, Layered, Microservices), design patterns, diverse testing strategies (unit, integration, TDD), and CI/CD principles, based on comprehensive software engineering coursework.
-  <!---
-ge47kuf/ge47kuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Software Engineering Methodologies:** Solid grasp of the software development lifecycle (SDLC), including requirements engineering, system modeling, various architectural patterns (Client-Server, Layered, Microservices), design patterns, diverse testing strategies (unit, integration, TDD), and CI/CD principles, based on comprehensive software engineering coursework.
+
+---
