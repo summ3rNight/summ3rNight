@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
 ---
-
+<!-- alte Projekt
 ### 📂 Featured Projects
 | project                                      | description                                                                                                                               | language/technology    |
 |----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -36,7 +36,7 @@
 | [Performance Optimization](https://github.com/ge47kuf/cpp-performance-optimization) | Analyzed and optimized C++ performance using multithreading, AVX/AVX2 vectorization, cache optimization, and efficient data structures. Demonstrates performance analysis and low-level optimization skills. | C++17, AVX/AVX2, Multithreading, perf, Make |
 | [Interpolation & Fourier Library](https://github.com/ge47kuf/Java-Numerical-Algorithms)    | Java library offering mathematical algorithms including interpolation methods, FFT, and image scaling applications. Highlights mathematical programming, GUI development, and algorithm implementation. | Java, JavaFX, Algorithms, Image Processing |
 | [Layered Architecture](https://github.com/ge47kuf/layered-architecture-spring-javafx)  | Client-server application demonstrating layered architecture principles with Spring Boot backend and JavaFX frontend, including REST API interaction and GUI design. Showcases software architecture and design patterns. | Java, Spring Boot, JavaFX, REST API, Gradle |
-
+-->
 ---
 
 ### 💻 Programming Experience
