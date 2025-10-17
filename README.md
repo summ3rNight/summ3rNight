@@ -41,7 +41,7 @@
 
 ---
 -->
-### 💻 Programming Experience
+### Programming Experience
 
 - **Java:** Extensive experience gained through university projects and practical exercises, mastering core concepts (data structures, algorithms, OOP, concurrency) and software engineering principles (design patterns, layered architectures). Applied in significant projects including a mathematical/image processing library with a JavaFX UI, and a client-server application utilizing Spring Boot for the REST API and JavaFX for the client.
 
