@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Tuan</h1>
-<h3 align="center">Computer Science student</h3>
+<h3 align="center">Computer Science Trainee</h3>
 
 ---
 
 ### About Me
-- I'm studying in Munich with a passion for **software development**, especially in **system-level programming**.
+- I'm studying in Stuttgart with a passion for **software development**, especially in **Cloud Computing**.
 - Currently deepening my knowledge in **HTML, CSS, JavaScript** to enhance frontend development skills.
 - I enjoy using practical tools, solving challenging coding problems, and continuously optimizing my workflow.
 ---
