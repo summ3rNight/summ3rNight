@@ -4,15 +4,17 @@
 ---
 
 ### About Me
-- I'm studying in Stuttgart with a passion for **software development**, especially in **Cloud Computing**.
-- Currently deepening my knowledge in **HTML, CSS, JavaScript** to enhance frontend development skills.
-- I enjoy using practical tools, solving challenging coding problems, and continuously optimizing my workflow.
+- I'm based in Stuttgart with a passion for **software development**, especially in **cloud technologies and full-stack development**.  
+- Currently deepening my knowledge of **HTML, CSS, and JavaScript** to enhance my frontend skills.  
+- I enjoy working with practical tools, solving challenging problems, and continuously optimizing my workflow.
+
 ---
 
 ### Currently Focusing On
-- Frontend Development (HTML/CSS/JavaScript)
-- Advanced C++ Projects & System Programming
-- Data structure 
+- Frontend Development (HTML/CSS/JavaScript)  
+- Advanced C++ Projects & System Programming  
+- Data Structures
+
 ---
 
 ### My skills
