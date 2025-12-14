@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Tuan</h1>
-<h3 align="center">Computer Science Trainee</h3>
 
 ---
 
